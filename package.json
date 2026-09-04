@@ -1,0 +1,11 @@
+{
+  "name": "ufound-slots",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node test.js",
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  }
+}
